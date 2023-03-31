@@ -112,8 +112,8 @@ def raw_b64_img(image: Image):
 
 class WebUIApi:
     def __init__(self,
-                 host='127.0.0.1',
-                 port=7860,
+                 host='sd.chenyjj.top',
+                 port=82,
                  baseurl=None,
                  sampler='Euler a',
                  steps=20,
